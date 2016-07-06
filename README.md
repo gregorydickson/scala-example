@@ -1,0 +1,1 @@
+A Scala Sample with some idomatic use of Scala and a little recursion.
